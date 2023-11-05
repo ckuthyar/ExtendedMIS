@@ -1,0 +1,15 @@
+4MW20CS001,Student1,A1,MachineLearning,80
+4MW20CS002,Student2,A1,MachineLearning,70
+4MW20CS003,Student3,A1,MachineLearning,82
+4MW20CS004,Student4,A1,MachineLearning,72
+4MW20CS005,Student5,A1,MachineLearning,84
+4MW20CS006,Student6,A1,MachineLearning,74
+4MW20CS007,Student7,A1,MachineLearning,86
+4MW20CS008,Student8,A1,MachineLearning,76
+4MW20CS009,Student9,A1,MachineLearning,88
+4MW20CS010,Student10,A1,MachineLearning,78
+4MW20CS011,Student11,A1,MachineLearning,90
+4MW20CS012,Student12,A1,MachineLearning,80
+4MW20CS013,Student13,A1,MachineLearning,92
+4MW20CS014,Student14,A1,MachineLearning,82
+4MW20CS014,Student15,A1,MachineLearning,91
